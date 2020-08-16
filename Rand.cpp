@@ -6,6 +6,7 @@ int main(){
 
 
 int a,b;
+cout<<"enter the starting and last number"<<endl;
 cin >> a >> b;
 int arr[10];
 
